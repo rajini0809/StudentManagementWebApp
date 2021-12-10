@@ -1,0 +1,24 @@
+body,td,th{
+    color: black
+}
+body{
+    background-color: #FOFOFO
+}
+
+.style1{
+          font-family: arial;
+          font-size: 14px;
+          padding: 12px;
+          line-height: 25px;
+          border-radius: 4px;
+          text-decoration: none;
+        }
+
+.style2{
+          font-family: arial;
+          font-size: 17px;
+          padding: 12px;
+          line-height: 25px;
+          border-radius: 4px;
+          text-decoration: none;
+        }
